@@ -5,3 +5,8 @@
 *kursive* "enter (* text *) without space"
 
 **semifat** "enter (** text **) without space"
+
+## lists arguments
+
+* for bullet user "* "
+1. for numbers use " 1. "
